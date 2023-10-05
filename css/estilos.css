@@ -507,7 +507,7 @@ text-shadow: 2.5px 0 rgb(209, 207, 207);
     z-index: 1;
     width: 220px;
     height: 300px;
-    margin: 100px auto;
+    margin: 50px auto;
    
     padding-top: 5px;
     transform: rotate(20deg);
@@ -549,7 +549,7 @@ text-shadow: 2.5px 0 rgb(209, 207, 207);
 
 .publicidad{
     background-color: black;
-    margin-top: 400px;
+    margin-top: 200px;
     box-shadow: 0 0px 5rem 4rem rgb(180, 178, 178);
 }
 
